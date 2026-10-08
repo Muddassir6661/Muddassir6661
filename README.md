@@ -1,6 +1,6 @@
 # Hey, I'm Mohammed Muddassir Fareed 
 
-Final-year CSE student (graduating September 2027), working toward a career in cybersecurity. I'm starting with SOC analyst roles because I like the detective side of security: watching what's happening, figuring out what's real, and explaining why.
+Final-year CSE student (graduating April 2027), working toward a career in cybersecurity. I'm starting with SOC analyst roles because I like the detective side of security: watching what's happening, figuring out what's real, and explaining why.
 _(Though I do love me some loopholes and vulnerabilities, but that's for another day)_
 
 I learn best by building things, breaking them on purpose, and writing down what went wrong.
