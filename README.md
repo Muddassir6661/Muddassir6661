@@ -14,7 +14,7 @@ I learn best by building things, breaking them on purpose, and writing down what
 
 ## Projects
 
-### Cybersecurity Homelab (in progress)
+### [Cybersecurity Homelab (in progress)](https://github.com/Muddassir6661/cybersec-homelab)
 An offense + defense lab on an old Celeron laptop with 4 GB of RAM. Debian 12, Docker, Portainer, DVWA as the target, and Wazuh as the SIEM.
 
 What's working so far:
